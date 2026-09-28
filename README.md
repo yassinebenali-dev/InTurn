@@ -63,7 +63,7 @@
 <img src="Screenshots/screenshot9.png" alt="Internship Offer Page" height="600" width="49%"/>
 <img src="Screenshots/screenshot10.png" alt="Student Dashboard" height="600" width="49%"/>
 </p>
-👉 More screenshots are available in the **`Screenshots`** folder.
+
 
 ### Prerequisites
 
