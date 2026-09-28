@@ -40,9 +40,6 @@
 - 📊 Dashboard for users to manage activity  
 - 📁 CV upload and profile management for students  
 
-## 📦 Installation & Usage
-
-> 🗂 The source code is located in the `InTurn_pfa/` directory.
 
 ## 📸 Screenshots
 
